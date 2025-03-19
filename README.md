@@ -1,7 +1,7 @@
 # NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
 # Contact Discord: rusocial (794009760755351593)
-# Offical Discord Server https://discord.gg/rusocial
+# Official Discord Server https://discord.gg/rusocial
 # Our Site: https://rusocial.io
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
