@@ -10,7 +10,9 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 ## Showcase
-https://github.com/user-attachments/assets/7e963b88-ff8d-4cdf-bed9-1a45b7cddaf6
+https://github.com/user-attachments/assets/96f6c635-49f1-4de8-9693-3756459b0fe8
+
+
 
 ## Discord Mass DM Tool
 
