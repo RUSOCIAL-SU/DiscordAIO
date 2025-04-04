@@ -1,8 +1,7 @@
 ## NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
 ## PRICE
-- 100$ Per 30 Days
-- 1k$ Lifetime
+- 100$ Per Month
 
 # Contact Discord: rusocial (794009760755351593)
 # Official Discord Server https://discord.gg/rusocial
