@@ -30,6 +30,7 @@ A powerful desktop application for managing Discord messaging operations at scal
 - **Message Templates**: Custom message templates
 - **Admin / Moderator Blacklist**: Ignore people with moderator and admin perms
 - **Persistent Storage**: Load saved settings each boot
+- **Custom Settings**: Delays Between Each Tasks / Token amount selection
 
 ### Token Management
 
