@@ -11,11 +11,12 @@
 ## Showcase
 https://github.com/user-attachments/assets/96f6c635-49f1-4de8-9693-3756459b0fe8
 
-
-
 ## Discord Mass DM Tool
 
 A powerful desktop application for managing Discord messaging operations at scale.
+
+## For B2B Only
+- We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware/ No Other Bots)
 
 ## Features
 
