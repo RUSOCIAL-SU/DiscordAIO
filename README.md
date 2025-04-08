@@ -1,7 +1,7 @@
 ## NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
 ## PRICE
-- 100$ Per Month
+- 100$ P/M
 
 # Contact Discord: rusocial (794009760755351593)
 # Official Discord Server https://discord.gg/rusocial
