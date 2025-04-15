@@ -32,7 +32,7 @@ A powerful desktop application for managing Discord messaging operations at scal
 - **Persistent Storage**: Load saved settings each boot
 - **Custom Settings**: Delays Between Each Tasks / Token amount selection
 
-### Token Management
+## Token Management
 
 Place your Discord tokens in a text file, one per line:
 ```
