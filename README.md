@@ -13,8 +13,6 @@
 
 ## Discord AIO
 
-A powerful desktop application for managing Discord messaging operations at scale.
-
 ## Features
 - Joiner
 - MassDM
