@@ -11,6 +11,10 @@
 # Our Site: https://rusocial.io
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
+## Blacklists
+- https://paste.dmca.sh/paste/490ae6d8-d824-4c1c-933d-1f303103b75f
+
+
 ## Discord AIO
 
 ## Features
