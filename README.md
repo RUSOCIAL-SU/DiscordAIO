@@ -1,9 +1,9 @@
 ## NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
 # PRICE
-- 300$ Invite to Github Source Repo
+- 200$ Invite to Github Source Repo
 
-## For B2B (business-to-business) Only
+# For B2B (business-to-business) Only
 - We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
 
 # Contact Discord: rusocial (794009760755351593)
