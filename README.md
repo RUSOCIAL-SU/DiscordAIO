@@ -3,7 +3,7 @@
 # PRICE
 - 200$ Invite to Github Source Repo
 
-## For B2B (business-to-business) Only
+# For B2B (business-to-business) Only
 - We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
 
 # Contact Discord: rusocial (794009760755351593)
@@ -13,7 +13,6 @@
 
 # Blacklists
 - https://paste.dmca.sh/paste/85ce3b9f-fdb8-4b1e-ab8c-8a0be56073a1
-
 
 ## Discord AIO
 
