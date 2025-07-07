@@ -12,7 +12,7 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # Blacklists
-- https://paste.dmca.sh/paste/85ce3b9f-fdb8-4b1e-ab8c-8a0be56073a1
+- https://paste.dmca.sh/paste/6d02ad9e-9ca2-4336-b9e9-df11bf425125
 
 # Discord AIO
 
