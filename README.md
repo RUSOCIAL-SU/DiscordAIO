@@ -14,7 +14,7 @@
 # Blacklists
 - https://paste.dmca.sh/paste/85ce3b9f-fdb8-4b1e-ab8c-8a0be56073a1
 
-## Discord AIO
+# Discord AIO
 
 ## Features
 - Joiner
